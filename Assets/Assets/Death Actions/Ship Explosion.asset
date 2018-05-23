@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0253ec51323c63b479ead6039841396a, type: 3}
+  m_Name: Ship Explosion
+  m_EditorClassIdentifier: 
+  explosionEffect: {fileID: 1447112407554062, guid: 8a4340d479917c64080415e67c84a351,
+    type: 2}
